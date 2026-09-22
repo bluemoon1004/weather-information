@@ -1,0 +1,6 @@
+{
+  "name": "실시간 날씨 대시보드 (Weather Mockup)",
+  "description": "실시간 기상 정보, 시간별·주간 예보, 대기질 지수 및 생활 기상 팁을 제공하는 앱 목업 형태의 날씨 대시보드",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
